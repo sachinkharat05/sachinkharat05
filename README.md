@@ -23,8 +23,6 @@ With good team management and communication skills, I strive to grow as a versat
 
 ### 🛠️ Languages and Tools
 
-<div align="center">
-
 ### 💻 Programming Languages
 C • C++ • Python  
 
