@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sachin Kharat 
 
-🚀 Aspiring Software Developer | AI & Web Enthusiast | Lifelong Learner  
+🚀 Aspiring Web Developer | AI & Web Enthusiast | Lifelong Learner  
 🎓 BCA Computer Scinence 
 
 ---
