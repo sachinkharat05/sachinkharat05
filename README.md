@@ -54,4 +54,26 @@
 - 📧 Email: kharatsachin012@gmail.com
 - 📞 Linkedin: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
 
+-## 💼 Internship
+- https://github.com/Transflower-Learning
+- **TFL Pvt Ltd** – Learning and working on **real-world projects**  
+- Gaining experience in **Node.js, Express, Database Management, and Web Development**
+
+
+1. **User Manager (CRUD App)**
+   - Built with Node.js, Express, MySQL, AJAX
+   - Allows adding, viewing, updating, and deleting users dynamically
+
+> Check out my GitHub repositories for more projects: [GitHub Repos](https://github.com/sachinkharat05)
+
 ---
+Feel free to **connect, collaborate, or just say hi!** 😄
+
+ 🌟 Fun Fact
+- Coffee + coding = productivity ☕💻  
+- Problem-solving and building projects is my happy place 🧩  
+- Always learning and exploring new tech 🚀
+
+
+**Thanks for visiting my GitHub!** 💻  
+Your ⭐ and support mean a lot! Keep exploring my projects and feel free to connect. 🚀
