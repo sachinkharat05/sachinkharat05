@@ -75,5 +75,9 @@ Feel free to **connect, collaborate, or just say hi!** 😄
 - Always learning and exploring new tech 🚀
 
 
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinkharat05&theme=github-dark&hide_border=true)
+
 **Thanks for visiting my GitHub!** 💻  
 Your ⭐ and support mean a lot! Keep exploring my projects and feel free to connect. 🚀
