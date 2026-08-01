@@ -77,8 +77,8 @@ A clean and free web tool that calculates your **exact age** in years, months, a
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-🔗 **Live Demo:** [Smart Age Calculator](https://smart-age-calculator-two.vercel.app/)  
-💻 **Source Code:** [GitHub Repository](https://github.com/sachinkharat05/smart-age-calculator)
+🔗💻 **Live Demo:** [Smart Age Calculator](https://smart-age-calculator-two.vercel.app/)  
+
 
 ---
 
