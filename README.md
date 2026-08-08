@@ -126,14 +126,206 @@ Full Stack Developer | BCA Graduate | MERN Stack Developer | .NET & C# Developer
   <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🔗 Project Links
+### 🔗 Project
 
-💻 **GitHub Repository**
+💻 **GitHub Repository:**
 
-👉 [Helpdesk Support Ticket Analytics](https://github.com/sachinkharat05/Helpdesk-Support-Ticket-Analytics)
+👉 [Helpdesk-Support-Ticket-Analytics](https://github.com/sachinkharat05/Helpdesk-Support-Ticket-Analytics)
+
 
 🌐 **Live Dashboard**
 
-👉 [View Live Dashboard]([YOUR_DEPLOYED_URL](http://localhost:5000/))
+[👉 [View Live Dashboard](http://localhost:5000/)](http://localhost:5000/)
 
 
+
+# 🎂 Smart Age Calculator
+
+A clean and free web tool that calculates your **exact age** in years, months, and days — along with total months, weeks, days, hours lived, and a live countdown to your **next birthday**.
+
+### ✨ Features
+
+- ⏳ Exact age in **years, months & days**
+- 📊 Total **months, weeks, days & hours** lived
+- 🎉 Live **next birthday countdown**
+- 📱 Fully responsive design
+- ⚡ Fast and lightweight
+- 🚫 Zero external dependencies
+
+### 🛠️ Built With
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+🔗 **Live Demo:**
+
+👉 [Smart Age Calculator](https://smart-age-calculator-two.vercel.app/)
+
+---
+
+# 👤 User Manager — CRUD Application
+
+A backend-focused CRUD application built during practical development work.
+
+### ✨ Features
+
+- ➕ Create users
+- 📖 Read users
+- ✏️ Update users
+- 🗑️ Delete users
+- 🔗 REST API integration
+- 🗄️ Database connectivity
+- ⚡ Dynamic operations using AJAX
+
+### 🛠️ Built With
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
+
+---
+
+# 💼 Internship / Experience
+
+## 🏢 TFL Pvt. Ltd. / Transflower Learning
+
+- Working on **real-world software development projects**
+- Gaining practical experience in:
+  - C#
+  - .NET
+  - ASP.NET Core
+  - Web API
+  - MVC
+  - Node.js
+  - Express.js
+  - Database Management
+  - REST APIs
+  - Git & GitHub
+  - Project Structure
+  - Software Development Workflow
+
+### 📚 Key Learning Areas
+
+- Object-Oriented Programming
+- C# Programming
+- .NET Fundamentals
+- ASP.NET Core
+- MVC Architecture
+- RESTful Web APIs
+- Entity Framework Core
+- LINQ
+- SQL & Database Management
+- Authentication & Authorization
+- CRUD Operations
+- Git & Version Control
+
+---
+
+# 🧠 Currently Focusing On
+
+- 💻 **C# and .NET Development**
+- 🌐 **ASP.NET Core & Web API**
+- 🗄️ **Entity Framework Core & SQL**
+- ⚛️ **React.js**
+- 🟢 **Node.js & Express.js**
+- 🔐 **REST API & JWT Authentication**
+- 🧩 **DSA & Problem Solving**
+- 🏗️ **Clean Code & Software Architecture**
+- 🐛 **Debugging & Real-World Development**
+
+---
+
+# 📚 Core CS Fundamentals
+
+- 🧱 Object-Oriented Programming
+- 🗄️ Database Management Systems
+- 💾 SQL
+- 🖥️ Operating Systems
+- 🌐 Computer Networks
+- 🔄 SDLC
+- 🧪 Software Testing Fundamentals
+- 🧩 Data Structures & Algorithms
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Build strong **Full Stack projects**
+- 💻 Become confident in **C# & .NET**
+- 🌐 Build production-ready **ASP.NET Core Web APIs**
+- ⚛️ Strengthen **React.js**
+- 🟢 Improve **Node.js & Express.js**
+- 🧠 Improve **DSA & problem-solving**
+- 💼 Gain a strong **Full Stack Developer / Software Developer role**
+- 📚 Keep learning and building practical projects
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/sachinkharat05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sachin-kharat-672b662a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kharatsachin012@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinkharat05&show_icons=true&theme=tokyonight" alt="Sachin's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkharat05&theme=tokyonight" alt="Sachin's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkharat05&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinkharat05&theme=github-dark&hide_border=true)
+
+---
+
+# 😄 Fun Facts
+
+- ☕ Coffee + Coding = Productivity
+- 🧩 Problem-solving and building projects is my happy place
+- 🚀 I enjoy learning by building practical things
+- 💡 Always exploring new technologies
+- 🔥 Learning something new every day
+
+---
+
+<h2 align="center">⭐ Thanks for visiting my GitHub!</h2>
+
+<p align="center">
+If you like my work, feel free to <b>connect, collaborate, or check out my repositories.</b>
+</p>
+
+<p align="center">
+🚀 Keep Learning • Keep Building • Keep Growing 🚀
+</p>
