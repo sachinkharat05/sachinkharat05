@@ -134,11 +134,6 @@ Full Stack Developer | BCA Graduate | MERN Stack Developer | .NET & C# Developer
 
 🌐 **Live Dashboard**
 
-👉 [View Live Dashboard](YOUR_DEPLOYED_URL)
+👉 [View Live Dashboard]([YOUR_DEPLOYED_URL](http://localhost:5000/))
 
-### ▶️ Run Project Locally
 
-```bash
-cd helpdesk-project/backend
-npm install
-npm start
