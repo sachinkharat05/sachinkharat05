@@ -205,7 +205,7 @@ A backend-focused CRUD application built during practical development work.
 # 💼 Internship / Experience
 
 ## 🏢 TFL Pvt. Ltd. / Transflower Learning
-
+📅 **January 2026 – Present**
 - Working on **real-world software development projects**
 - Gaining practical experience in:
   - C#
@@ -298,19 +298,7 @@ A backend-focused CRUD application built during practical development work.
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinkharat05&show_icons=true&theme=tokyonight" alt="Sachin's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkharat05&theme=tokyonight" alt="Sachin's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkharat05&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
