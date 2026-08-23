@@ -1,17 +1,36 @@
+<!-- Welcome Banner -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F91,50:1555A8,100:159A9C&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=45"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sachin Kharat</h1>
+
+
 
 <h3 align="center">
 Full Stack Developer | BCA Graduate | MERN Stack Developer | .NET & C# Developer | Problem Solver
 </h3>
 
-<p align="center">
-  <a href="https://github.com/sachinkharat05">
-    <img src="https://komarev.com/ghpvc/?username=sachinkharat05&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkharat05" />
-  </a>
-</p>
+<!-- Profile Views & Followers -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;C%23+%26+.NET+Developer;ASP.NET+Core+Learner;Backend+%26+API+Developer;Problem+Solver;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=sachinkharat05&label=Profile%20views&color=6C4AB6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sachinkharat05?label=Followers&style=for-the-badge&color=white" alt="Followers" />
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;C%23+%26+.NET+Developer;ASP.NET+Core+Learner;Backend+%26+API+Developer;Problem+Solver"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 ---
@@ -20,7 +39,7 @@ Full Stack Developer | BCA Graduate | MERN Stack Developer | .NET & C# Developer
 
 - 🎓 BCA graduate passionate about **Full Stack Development, Backend Systems, APIs, and Real-World Problem Solving**
 - 💻 Building applications using **MERN Stack and .NET technologies**
-- 🌱 Currently learning and building with **C#, .NET, ASP.NET Core, Web API, Entity Framework Core, React.js, Node.js, Express.js, MongoDB, and MySQL**
+- 🌱 Currently learning **C#, .NET, ASP.NET Core, Web API, Entity Framework Core, React.js, Node.js, Express.js, MongoDB, and MySQL**
 - 🧠 Interested in **backend architecture, REST APIs, databases, authentication, and intelligent systems**
 - 🏗️ Working on practical projects to improve **problem-solving, clean coding, debugging, and software development skills**
 - 🎯 Goal: To become a strong **Full Stack Developer** and build products that create real impact
@@ -126,16 +145,7 @@ Full Stack Developer | BCA Graduate | MERN Stack Developer | .NET & C# Developer
   <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🔗 Project
-
-💻 **GitHub Repository:**
-
-👉 [Helpdesk-Support-Ticket-Analytics](https://github.com/sachinkharat05/Helpdesk-Support-Ticket-Analytics)
-
-
-🌐 **Live Dashboard**
-
-[👉 [View Live Dashboard](http://localhost:5000/)](http://localhost:5000/)
+### 🔗 Project  Website Create
 
 
 
