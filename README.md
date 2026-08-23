@@ -205,36 +205,40 @@ A backend-focused CRUD application built during practical development work.
 # 💼 Internship / Experience
 
 ## 🏢 TFL Pvt. Ltd. / Transflower Learning
+
 📅 **January 2026 – Present**
-- Working on **real-world software development projects**
-- Gaining practical experience in:
-  - C#
-  - .NET
-  - ASP.NET Core
-  - Web API
-  - MVC
-  - Node.js
-  - Express.js
-  - Database Management
-  - REST APIs
-  - Git & GitHub
-  - Project Structure
-  - Software Development Workflow
+
+- 💻 Working on **real-world software development projects**
+- 🚀 Gaining practical experience in:
+  - 🔷 C#
+  - ⚙️ .NET
+  - 🌐 ASP.NET Core
+  - 🔗 Web API
+  - 🏗️ MVC
+  - 🟢 Node.js
+  - 🚂 Express.js
+  - 🗄️ Database Management
+  - 🔌 REST APIs
+  - 🌿 Git & GitHub
+  - 🏛️ Project Structure
+  - 🔄 Software Development Workflow
 
 ### 📚 Key Learning Areas
 
-- Object-Oriented Programming
-- C# Programming
-- .NET Fundamentals
-- ASP.NET Core
-- MVC Architecture
-- RESTful Web APIs
-- Entity Framework Core
-- LINQ
-- SQL & Database Management
-- Authentication & Authorization
-- CRUD Operations
-- Git & Version Control
+- 🧱 Object-Oriented Programming
+- 🔷 C# Programming
+- ⚙️ .NET Fundamentals
+- 🌐 ASP.NET Core
+- 🏗️ MVC Architecture
+- 🔗 RESTful Web APIs
+- 🗄️ Entity Framework Core
+- 🔍 LINQ
+- 💾 SQL & Database Management
+- 🔐 Authentication & Authorization
+- 🛠️ CRUD Operations
+- 🌿 Git & Version Control
+
+---
 
 ---
 
