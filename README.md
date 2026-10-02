@@ -37,13 +37,13 @@ Full Stack Developer | BCA Graduate | MERN Stack Developer | .NET & C# Developer
 
 # 🚀 About Me
 
-- 🎓 BCA graduate passionate about **Full Stack Development, Backend Systems, APIs, and Real-World Problem Solving**
-- 💻 Building applications using **MERN Stack and .NET technologies**
-- 🌱 Currently learning **C#, .NET, ASP.NET Core, Web API, Entity Framework Core, React.js, Node.js, Express.js, MongoDB, and MySQL**
-- 🧠 Interested in **backend architecture, REST APIs, databases, authentication, and intelligent systems**
-- 🏗️ Working on practical projects to improve **problem-solving, clean coding, debugging, and software development skills**
-- 🎯 Goal: To become a strong **Full Stack Developer** and build products that create real impact
-
+🎓 MCA Student | BCA Graduate
+💻 Passionate about Full Stack Development, Backend Engineering, REST APIs, and Problem Solving
+🛠️ Building practical applications using Python, FastAPI, MERN Stack, C#, and .NET
+🗄️ Exploring Database Design, API Development, and Software Architecture
+🏗️ Strengthening my skills through hands-on projects, clean code, debugging, and continuous learning
+🌱 Always eager to learn new technologies and turn ideas into real-world applications
+🎯 Career Goal: To become a skilled Full Stack Developer and build scalable, reliable, and impactful software solutions
 ---
 
 # 🛠️ Tech Stack
