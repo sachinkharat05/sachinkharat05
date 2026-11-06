@@ -10,7 +10,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Kharat</h1>
 
 <h3 align="center">
-  Aspiring Full Stack Developer | MCA Student | Python Developer | MERN Stack | C# & .NET | Backend & API Developer
+ <h3 align="center">
+Aspiring Full Stack Developer | MCA Student | Python | MERN | C# & .NET
 </h3>
 
 <!-- Profile Views & Followers -->
@@ -25,7 +26,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;C%23+%26+.NET+Developer;ASP.NET+Core+Learner;Backend+%26+API+Developer;Problem+Solver"
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%26+FastAPI+Developer;MERN+Stack+Developer;C%23+%26+.NET+Developer;Backend+%26+API+Developer;Problem+Solver"
       alt="Typing SVG"
     />
   </a>
