@@ -9,10 +9,8 @@
 
 <h1 align="center">Hi 👋, I'm Sachin Kharat</h1>
 
-
-
 <h3 align="center">
-Full Stack Developer | BCA Graduate | MERN Stack Developer | .NET & C# Developer | Problem Solver
+  Aspiring Full Stack Developer | MCA Student | Python Developer | MERN Stack | C# & .NET | Backend & API Developer
 </h3>
 
 <!-- Profile Views & Followers -->
