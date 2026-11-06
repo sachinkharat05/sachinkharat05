@@ -37,21 +37,19 @@ Full Stack Developer | BCA Graduate | MERN Stack Developer | .NET & C# Developer
 
 🚀 About Me
 
-🎓 MCA Student | BCA Graduate
+🎓 MCA  Pursing  at BATU Univarcity
 
-💻 Passionate about Full Stack Development, Backend Engineering, REST APIs, and Problem Solving
+ 🎓BCA Graduate from Deogiri College, Chhatrapati Sambhajinagar
+ 
+💻 Aspiring Full Stack Developer | Python | FastAPI | MERN Stack | C# | .NET
 
-🛠️ Building practical applications using Python, FastAPI, MERN Stack, C#, and .NET
+🛠️ Passionate about Backend Development, REST APIs, Database Design, and Problem Solving.
 
-🗄️ Exploring Database Design, API Development, and Software Architecture
+🌱 Building practical projects, writing clean code, and continuously learning new technologies.
 
-🏗️ Strengthening my skills through hands-on projects, clean code, debugging, and continuous learning
+🎯 Goal: To become a skilled Full Stack Developer and build scalable, reliable, and impactful applications.
 
-🌱 Always eager to learn new technologies and turn ideas into real-world applications
-
-🎯 Career Goal: To become a skilled Full Stack Developer and build scalable, reliable, and impactful software solutions
-
-🤝 Open to collaborating on projects, contributing to open source, and exploring software development opportunities
+🤝 Open to internships, collaborations, and software development opportunities.
 # 🛠️ Tech Stack
 
 ## 💻 Programming Languages
@@ -122,24 +120,6 @@ Full Stack Developer | BCA Graduate | MERN Stack Developer | .NET & C# Developer
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
-
----
-
-# 🌟 Featured Projects
-
-## 🎫 Helpdesk Support Ticket Analytics
-
-> 📊 A practical analytics dashboard designed to analyze helpdesk support tickets and provide meaningful insights into ticket volume, status, priority, and support performance.
-
-### ✨ Features
-
-- 📊 Interactive **Helpdesk Ticket Analytics Dashboard**
-- 🎫 Ticket volume and status analysis
-- 🚨 Priority-based ticket insights
-- 📈 Data visualization and reporting
-- 🔍 Support-ticket trend analysis
-- 🖥️ Clean and user-friendly dashboard
-- ⚡ Practical real-world analytics project
 
 ### 🛠️ Technologies
 
