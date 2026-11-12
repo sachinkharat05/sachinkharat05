@@ -1,35 +1,19 @@
-<!-- Welcome Banner -->
-
+ <!-- ANIMATED HEADER -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F91,50:1555A8,100:159A9C&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=45"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sachin%20Kharat&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=white" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sachin Kharat</h1>
+<h1 align="center">👋 Hello, I'm Sachin Kharat</h1>
 
-<h3 align="center">
- <h3 align="center">
-Aspiring Full Stack Developer | MCA Student | Python | MERN | C# & .NET
-</h3>
-
-<!-- Profile Views & Followers -->
+<h3 align="center">🚀 Aspiring Full Stack Developer | Python Developer | Software Tester</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachinkharat05&label=Profile%20views&color=6C4AB6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sachinkharat05?label=Followers&style=for-the-badge&color=white" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;MERN+Stack+Developer+%F0%9F%9A%80;Automation+Testing+%F0%9F%A7%AA;Software+Developer+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%8C%B1" />
 </p>
 
-<!-- Typing Animation -->
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%26+FastAPI+Developer;MERN+Stack+Developer;C%23+%26+.NET+Developer;Backend+%26+API+Developer;Problem+Solver"
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sachinkharat05&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sachinkharat05?label=Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -253,61 +237,56 @@ A backend-focused CRUD application built during practical development work.
 - 🧩 Data Structures & Algorithms
 
 ---
+## 📊 GitHub Statistics
 
-# 🎯 Goals for 2026
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sachinkharat05&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkharat05&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🚀 Build strong **Full Stack projects**
-- 💻 Become confident in **C# & .NET**
-- 🌐 Build production-ready **ASP.NET Core Web APIs**
-- ⚛️ Strengthen **React.js**
-- 🟢 Improve **Node.js & Express.js**
-- 🧠 Improve **DSA & problem-solving**
-- 💼 Gain a strong **Full Stack Developer / Software Developer role**
-- 📚 Keep learning and building practical projects
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkharat05&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sachinkharat05&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+## 📈 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinkharat05&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
+</p>
+---
+
+## 🎯 Career Goals
+
+- 💻 Become a Professional Full Stack Developer
+- 🚀 Build Real-World Applications
+- 🧠 Improve Problem-Solving Skills
+- 🧪 Develop Automation Testing Skills
+- 🌱 Learn New Technologies
+- 🤝 Collaborate on Open Source Projects
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/sachinkharat05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sachin-kharat-672b662a7/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kharatsachin012@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="mailto:kharatsachin012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sachinkharat05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-
-
----
-
-# 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinkharat05&theme=github-dark&hide_border=true)
-
----
-
-# 😄 Fun Facts
-
-- ☕ Coffee + Coding = Productivity
-- 🧩 Problem-solving and building projects is my happy place
-- 🚀 I enjoy learning by building practical things
-- 💡 Always exploring new technologies
-- 🔥 Learning something new every day
-
----
-
-<h2 align="center">⭐ Thanks for visiting my GitHub!</h2>
+<h3 align="center">⭐ Thanks for Visiting My GitHub Profile! ⭐</h3>
 
 <p align="center">
 If you like my work, feel free to <b>connect, collaborate, or check out my repositories.</b>
@@ -315,4 +294,8 @@ If you like my work, feel free to <b>connect, collaborate, or check out my repos
 
 <p align="center">
 🚀 Keep Learning • Keep Building • Keep Growing 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
