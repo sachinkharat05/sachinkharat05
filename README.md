@@ -249,12 +249,6 @@ A backend-focused CRUD application built during practical development work.
 </p>
 
 
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sachinkharat05&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
 ## 📈 GitHub Profile Summary
 
 <p align="center">
@@ -297,5 +291,5 @@ If you like my work, feel free to <b>connect, collaborate, or check out my repos
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=105&section=footer" width="105%"/>
 </p>
