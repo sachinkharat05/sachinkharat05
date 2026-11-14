@@ -254,7 +254,7 @@ A backend-focused CRUD application built during practical development work.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinkharat05&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
 </p>
----
+
 
 ## 🎯 Career Goals
 
