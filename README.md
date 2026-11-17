@@ -51,7 +51,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -62,14 +62,12 @@
 ## ⚙️ Backend & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ---
@@ -101,67 +99,46 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
 ---
 
-# 👤 User Manager — CRUD Application
-
-A backend-focused CRUD application built during practical development work.
-
-### ✨ Features
-
-- ➕ Create users
-- 📖 Read users
-- ✏️ Update users
-- 🗑️ Delete users
-- 🔗 REST API integration
-- 🗄️ Database connectivity
-- ⚡ Dynamic operations using AJAX
-
-### 🛠️ Built With
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
-
----
 
 # 💼 Internship / Experience
 
-## 🏢 TFL Pvt. Ltd. / Transflower Learning
+## 🏢 TFL Pvt. Ltd. | Transflower Learning
 
-📅 **January 2026 – Present**
+📅 ** Present**
 
-- 💻 Working on **real-world software development projects**
-- 🚀 Gaining practical experience in:
-  - 🔷 C#
-  - ⚙️ .NET
-  - 🌐 ASP.NET Core
-  - 🔗 Web API
-  - 🏗️ MVC
-  - 🟢 Node.js
-  - 🚂 Express.js
-  - 🗄️ Database Management
-  - 🔌 REST APIs
-  - 🌿 Git & GitHub
-  - 🏛️ Project Structure
-  - 🔄 Software Development Workflow
+**Role:** Software Developer Intern
+
+🚀 Working on real-world software development projects and gaining hands-on experience in backend development, web technologies, databases, and software engineering practices.
+
+### 🛠️ Technologies & Tools
+
+- 🔷 **C#**
+- ⚙️ **.NET**
+- 🌐 **ASP.NET Core**
+- 🔗 **Web API**
+- 🏗️ **MVC Architecture**
+- 🟢 **Node.js**
+- 🚂 **Express.js**
+- 🗄️ **Database Management**
+- 🔌 **REST APIs**
+- 🌿 **Git & GitHub**
+- 🏛️ **Project Structure**
+- 🔄 **Software Development Workflow**
 
 ### 📚 Key Learning Areas
 
-- 🧱 Object-Oriented Programming
-- 🔷 C# Programming
+- 🧱 Object-Oriented Programming (OOP)
+- 🔷 C# Programming Fundamentals
 - ⚙️ .NET Fundamentals
-- 🌐 ASP.NET Core
-- 🏗️ MVC Architecture
-- 🔗 RESTful Web APIs
-- 🗄️ Entity Framework Core
-- 🔍 LINQ
+- 🌐 ASP.NET Core Development
+- 🏗️ MVC Architecture & Design Patterns
+- 🔗 RESTful Web API Development
+- 🗄️ Entity Framework Core (EF Core)
+- 🔍 LINQ (Language Integrated Query)
 - 💾 SQL & Database Management
 - 🔐 Authentication & Authorization
 - 🛠️ CRUD Operations
@@ -183,16 +160,16 @@ A backend-focused CRUD application built during practical development work.
 
 ---
 
-# 📚 Core CS Fundamentals
+# 📚 Core Computer Science Fundamentals
 
-- 🧱 Object-Oriented Programming
-- 🗄️ Database Management Systems
-- 💾 SQL
+- 🧱 Object-Oriented Programming (OOP)
+- 🗄️ Database Management Systems (DBMS)
+- 💾 SQL & Database Concepts
 - 🖥️ Operating Systems
 - 🌐 Computer Networks
-- 🔄 SDLC
+- 🔄 Software Development Life Cycle (SDLC)
 - 🧪 Software Testing Fundamentals
-- 🧩 Data Structures & Algorithms
+- 🧩 Data Structures & Algorithms (DSA)
 
 ---
 ## 📊 GitHub Statistics
@@ -227,12 +204,17 @@ A backend-focused CRUD application built during practical development work.
 
 ## 🤝 Connect With Me
 
+
 <p align="center">
+ 
   <a href="mailto:kharatsachin012@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sachinkharat05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sachin-kharat-672b662a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
